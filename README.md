@@ -1,6 +1,20 @@
 # manage-Contacts-desktop-project
 • Management contacts application (02/2021): This is an application for contacts management (as in mobile phones) , The application created using java language.
 
+## Featurs
+- Creating and saving contacts.
+- Viewing sorted lists of contacts.
+- Searching a contact
+- Editing a contact's information
+- Deleting a contact
+- Creating groups
+- Viewing the list of groups
+- Changing group information
+- Adding contacts to a group
+- Deleting a group
+- Saved the goups, and contacts to a file
+  (so if we open the project again we can see the contats, ad the groups we created before)
+
 ## Peview 
 ![contacts poject](./screens/Screenshot%20(32).png)
 ![contacts poject](./screens/Screenshot%20(33).png)
