@@ -12,7 +12,7 @@
 - Changing group information
 - Adding contacts to a group
 - Deleting a group
-- Saved the goups, and contacts to a file
+- Saved the goups, and contacts to a file  
   (so if we open the project again we can see the contats, ad the groups we created before)
 
 ## Peview 
